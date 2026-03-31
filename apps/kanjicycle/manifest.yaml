@@ -1,0 +1,7 @@
+id: kanji-cycle
+name: Kanji Cycle
+summary: Cycles through Hiragana characters
+desc: Displays Japanese Hiragana characters one at a time with their Romaji pronunciation, cycling through the full gojuon set or a custom selection.
+author: McBoop69420
+fileName: kanji_cycle.star
+packageName: kanjicycle
